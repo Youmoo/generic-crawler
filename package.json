@@ -1,6 +1,6 @@
 {
   "name": "@youmoo/generic-crawler",
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "description": "A generic crawler interface",
   "main": "dist/index.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "author": "Youmoo",
   "license": "MIT",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Youmoo/generic-crawler"
+  },
   "devDependencies": {
     "axios": "^0.19.2",
     "typescript": "^3.8.3"

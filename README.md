@@ -6,11 +6,11 @@
 ## 使用
 
 ```bash
-npm i generic-crawler
+npm i @youmoo/generic-crawler
 ```
 
 ```js
-import {Crawler, Page} from 'generic-crawler';
+import {Crawler, Page} from '@youmoo/generic-crawler';
 ```
 
 ## 分页示例
